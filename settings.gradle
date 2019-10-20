@@ -1,0 +1,2 @@
+include ':app', ':expandable_textview'
+rootProject.name='ExpandTextView'
